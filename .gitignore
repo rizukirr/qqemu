@@ -1,0 +1,4 @@
+aarch64/image
+riscv64/image
+riscv64/loader
+*.qcow2
